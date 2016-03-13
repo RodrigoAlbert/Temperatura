@@ -1,0 +1,28 @@
+.buttonTemp{
+  background:#000;
+  padding:10px 0 10px 0;
+  width:100px;
+  border-radius: 15px;
+  color:#fff;
+  text-align:center;
+  margin:0 auto;
+  cursor:pointer;
+}
+.geralTemp{
+  width:200px;
+  margin:0 auto;
+}
+.numeroTemp{
+  float:left;
+  margin:15px 0 0 0;
+}
+.discri{
+  float:left;
+  margin:15px 0 0 10px;
+}
+.iconTemp{
+  float:left;
+}
+.buttonTemp{
+  clear: both;
+}
